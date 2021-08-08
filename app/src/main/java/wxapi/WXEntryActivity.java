@@ -25,8 +25,8 @@ import java.net.URL;
 public class WXEntryActivity extends AppCompatActivity implements IWXAPIEventHandler {
 
     private static final String TAG = "WXEntryActivity";
-    private String wechatAppID = "wx662187f6fa5aab34";
-    private String wechatAppSecret = "7c8a1737e977cc5d90ee2c7c01b22dc1";
+    private String wechatAppID = "填自己申请的";
+    private String wechatAppSecret = "填自己申请的";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
